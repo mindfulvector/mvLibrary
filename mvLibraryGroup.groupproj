@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{A3CE933A-56DA-459F-8EC7-E291491EF910}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="mvLibrary.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="PanelTester.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="mvLibrary">
+        <MSBuild Projects="mvLibrary.dproj"/>
+    </Target>
+    <Target Name="mvLibrary:Clean">
+        <MSBuild Projects="mvLibrary.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="mvLibrary:Make">
+        <MSBuild Projects="mvLibrary.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="PanelTester">
+        <MSBuild Projects="PanelTester.dproj"/>
+    </Target>
+    <Target Name="PanelTester:Clean">
+        <MSBuild Projects="PanelTester.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="PanelTester:Make">
+        <MSBuild Projects="PanelTester.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="mvLibrary;PanelTester"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="mvLibrary:Clean;PanelTester:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="mvLibrary:Make;PanelTester:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

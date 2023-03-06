@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/05 19:10:32.000.785,=rtl.dcp</Transaction>
+    <Transaction>2023/03/06 14:08:45.000.349,=rtl.dcp</Transaction>
+    <Transaction>2023/03/06 14:09:16.000.787,D:\Dev\Embar\Projects\DialogButtons\DialogButtonsPackage.dproj=D:\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2023/03/06 14:10:41.000.222,=fmx.dcp</Transaction>
+    <Transaction>2023/03/06 14:10:41.000.165,=D:\Dev\Embar\Projects\DialogButtons\DialogButtons.pas</Transaction>
+    <Transaction>2023/03/06 14:33:13.000.290,=D:\Dev\Embar\Projects\DialogButtons\DialogButtons.rc</Transaction>
+    <Transaction>2023/03/06 14:51:23.000.545,D:\Dev\Embar\Projects\DialogButtons\DialogButtonsPackage.dproj=D:\Dev\Embar\Projects\DialogButtons\mvLibrary.dproj</Transaction>
+    <Transaction>2023/03/06 14:56:28.000.390,D:\Dev\Embar\Projects\DialogButtons\mvResourceFile.pas=D:\Dev\Embar\Projects\DialogButtons\DialogButtons.pas</Transaction>
+    <Transaction>2023/03/06 14:56:44.000.878,D:\Dev\Embar\Projects\DialogButtons\mvResourceFile.rc=D:\Dev\Embar\Projects\DialogButtons\DialogButtons.rc</Transaction>
+  </Transactions>
+</BorlandProject>

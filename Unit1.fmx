@@ -1,0 +1,39 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Camera1: TCamera
+    AngleOfView = 45.000000000000000000
+    Target = Cube1
+    Position.Z = -5.000000000000000000
+    Width = 1.000000000000000000
+    Height = 1.000000000000000000
+    Depth = 1.000000000000000000
+    TwoSide = True
+  end
+  object Cube1: TCube
+    Width = 1.000000000000000000
+    Height = 1.000000000000000000
+    Depth = 1.000000000000000000
+    TwoSide = True
+  end
+  object TextLayer3D1: TTextLayer3D
+    Color = claBlack
+    Height = 50.000000000000000000
+    Resolution = 50
+    Text = 'Hello Linux!'
+    Width = 100.000000000000000000
+  end
+  object Viewport3D1: TViewport3D
+    Camera = Camera1
+    Size.Width = 640.000000000000000000
+    Size.Height = 480.000000000000000000
+    Size.PlatformDefault = False
+  end
+end

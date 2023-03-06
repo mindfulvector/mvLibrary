@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/22 20:08:38.000.723,=C:\Data\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 08:04:55.000.647,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/20 11:09:45.000.224,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/01 11:54:12.000.480,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/02 07:28:45.000.197,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/02 07:35:00.000.131,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/06 14:05:54.000.771,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/06 14:11:14.000.046,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/06 14:11:21.000.871,D:\Documents\Embarcadero\Studio\Projects\PanelTest.fmx=D:\Documents\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>2023/03/06 14:11:21.000.871,D:\Documents\Embarcadero\Studio\Projects\PanelTest.pas=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/06 14:11:28.000.322,D:\Documents\Embarcadero\Studio\Projects\PanelTester.dproj=D:\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/03/06 14:12:13.000.887,=D:\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/03/06 14:12:27.000.105,=D:\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2023/03/06 14:12:32.000.487,D:\Documents\Embarcadero\Studio\Projects\TestDialog.pas=D:\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/03/06 14:12:32.000.487,D:\Documents\Embarcadero\Studio\Projects\TestDialog.fmx=D:\Documents\Embarcadero\Studio\Projects\Unit3.fmx</Transaction>
+    <Transaction>2023/03/06 14:12:37.000.577,D:\Documents\Embarcadero\Studio\Projects\PanelDesign.fmx=D:\Documents\Embarcadero\Studio\Projects\Unit4.fmx</Transaction>
+    <Transaction>2023/03/06 14:12:37.000.577,D:\Documents\Embarcadero\Studio\Projects\PanelDesign.pas=D:\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2023/03/06 14:16:45.000.760,D:\Documents\Embarcadero\Studio\Projects\PanelDesign.pas=</Transaction>
+    <Transaction>2023/03/06 14:16:51.000.631,D:\Documents\Embarcadero\Studio\Projects\TestDialog.pas=</Transaction>
+    <Transaction>2023/03/06 14:24:48.000.794,=D:\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/03/06 14:24:57.000.773,D:\Documents\Embarcadero\Studio\Projects\PanelDesign.pas=D:\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/03/06 14:24:57.000.773,D:\Documents\Embarcadero\Studio\Projects\PanelDesign.fmx=D:\Documents\Embarcadero\Studio\Projects\Unit3.fmx</Transaction>
+    <Transaction>2023/03/06 14:30:41.000.498,D:\Dev\Embar\Projects\DialogButtons\PanelTester.dproj=D:\Documents\Embarcadero\Studio\Projects\PanelTester.dproj</Transaction>
+    <Transaction>2023/03/06 14:30:52.000.253,D:\Dev\Embar\Projects\DialogButtons\PanelDesign.pas=D:\Documents\Embarcadero\Studio\Projects\PanelDesign.pas</Transaction>
+    <Transaction>2023/03/06 14:30:52.000.253,D:\Dev\Embar\Projects\DialogButtons\PanelDesign.fmx=D:\Documents\Embarcadero\Studio\Projects\PanelDesign.fmx</Transaction>
+    <Transaction>2023/03/06 14:30:58.000.504,D:\Dev\Embar\Projects\DialogButtons\PanelTest.pas=D:\Documents\Embarcadero\Studio\Projects\PanelTest.pas</Transaction>
+    <Transaction>2023/03/06 14:30:58.000.504,D:\Dev\Embar\Projects\DialogButtons\PanelTest.fmx=D:\Documents\Embarcadero\Studio\Projects\PanelTest.fmx</Transaction>
+  </Transactions>
+</BorlandProject>
